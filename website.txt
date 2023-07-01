@@ -1,0 +1,8 @@
+<html>
+<body>
+<title>welcome</title>
+<h1>My name is shiv</h1>
+<p>this is ci/cd pipeline</p>
+
+</body>
+</html>
